@@ -1,1 +1,5 @@
 # learn-async
+
+## License
+
+WTFPL
